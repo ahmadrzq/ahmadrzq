@@ -1,6 +1,6 @@
 <h1>Hello</h1>
 
-Hi, I'm Ahmad Rizqi Isnain, a junior web developer with a passion for creating
+Hi, I'm Ahmad Rizqi Isnain, a web developer with a passion for creating
 beautiful and functional websites. I'm constantly learning and exploring new
 technologies to improve my skills and enhance my development abilities.
 
