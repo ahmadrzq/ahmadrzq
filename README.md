@@ -62,7 +62,7 @@ technologies to improve my skills and enhance my development abilities.
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
       alt="expressjs"
       width="40"
       height="40"
